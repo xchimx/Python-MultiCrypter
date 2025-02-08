@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/your-username/URLTest/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License"></a>
+<a href="https://github.com/xchimx/Python-MultiCrypter/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License"></a>
 </p>
 
 ## About MultiCrypter
@@ -34,7 +34,7 @@ MultiCrypter consists of two Python scripts (`MultiCrypt.py` and `MultiDecrypt.p
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/xchimx/Python-MultiCrypter
-   cd python-multicrypt
+   cd Python-MultiCrypter
    pip install -r requirements.txt
    py ./MultiCrypt.py to crypt the python file (try the HelloWorld.py example in Testfile subdir
    py ./MultiDecrypt.py to decrypt the python file with one of the passwords
@@ -53,5 +53,5 @@ In order to keep a welcoming environment, please adhere to a basic code of condu
 If you discover a security vulnerability within URLTest, please open a GitHub issue or contact the repository owner directly. We’ll address vulnerabilities promptly.
 
 ## License
-URLTest is open-sourced software licensed under the MIT license.
+MultiCrypter is open-sourced software licensed under the MIT license.
 
