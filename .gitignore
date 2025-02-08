@@ -1,0 +1,28 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Test coverage reports
+htmlcov/
+.coverage
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
